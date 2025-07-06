@@ -1,0 +1,6 @@
+Collection of tips to try, if radiant is not starting on Windows or preferences aren't saving.
+
+*avoid non-english letters in paths to radiant executable and game engine
+*run program _not_ from system disk partition (potential write permission problem)
+*ensure that there is empty settings directory in radiant folder (settings will be saved there locally)
+*run program as admin

@@ -1,0 +1,11 @@
+general.fullscreen: false
+general.input-mouse-support: true
+keys.cancel: Esc,Backspace,GamepadB
+keys.accept: Return,Enter,GamepadA
+keys.prev-page: Q,A,GamepadL1
+keys.filters: F,GamepadY
+keys.details: I,GamepadX
+keys.menu: Tab,GamepadStart
+keys.page-down: PgDown,GamepadR2
+keys.next-page: E,D,GamepadR1
+keys.page-up: PgUp,GamepadL2
